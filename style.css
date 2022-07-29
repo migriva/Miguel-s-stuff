@@ -1,0 +1,13 @@
+h1 {
+    height: 100px;
+    width: 100px;
+    font-style: italic;
+    color: red;
+    /* color: blue; */
+}
+p {
+    color: blue;
+    font-style: oblique;
+    width: 220px;
+    /* float: right; */
+}
